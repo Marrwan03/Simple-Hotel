@@ -1,38 +1,89 @@
-# Simple-Hotel
-Hotel System , it is simple system for rent rooms.
+<h1 align="center">Simple Hotel</h1>
 
-it is good way if you have hotel and wants foreign people knows about it.
+###
 
-this sytem for any one has a hotel and wants to get clients for it.
+<h2 align="left">Elevator Pitch:</h2>
 
-The features are : 
--Create New Account:
-if you don`t have any account you can create and sign up system
+###
 
--Greeting :
-greeting for clients and show them more info about hotel and services.
+<h4 align="left">Hotel System , it is simple system for rent rooms.</h4>
 
--DashBoard:
-this inculde {Your info, Rent Records},
-*in your info : 
-you will show your info and NumberOfRents with Total Price.
-*in rent Records:
-you will see the record of your rents like {Room, StartDate, EndDate, etc...}.
+###
 
--Rent Room:
-this form for rent room and you have to set Date and NumberOfRoom,
-becareful if the room is busy you cannot rent it another that it is inculde more details
-about the rent like Number of days and price.
+<h2 align="left">The goal and the problem it solves:</h2>
 
--Users:
-in this form you will see all Users with them information.
+###
 
-i used C# .Net Framework to built it.
+<h4 align="left">it is good way if you have hotel and wants foreign people knows about it.</h4>
 
-i faced some hard way to check if this room is busy or not but with library like Date
-i fixed it.
+###
 
-you can add order of food  and another services and save the system info in database
-not in dataStructure.
+<h2 align="left">Target group:</h2>
 
-in the end if you want some details about this game ask me
+###
+
+<h4 align="left">this sytem for any one has a hotel and wants to get clients for it.</h4>
+
+###
+
+<h2 align="left">Features:</h2>
+
+###
+
+<h4 align="left">1- Create New Account: if you don`t have any account you can create and sign up system.</h4>
+
+###
+
+<h4 align="left">2- Greeting : greeting for clients and show them more info about hotel and services.</h4>
+
+###
+
+<h4 align="left">3- DashBoard: this inculde {Your info, Rent Records}, *in your info : you will show your info and NumberOfRents with Total Price. *in rent Records: you will see the record of your rents like {Room, StartDate, EndDate, etc...}.</h4>
+
+###
+
+<h4 align="left">4- Rent Room: this form for rent room and you have to set Date and NumberOfRoom, becareful if the room is busy you cannot rent it another that it is inculde more details about the rent like Number of days and price.</h4>
+
+###
+
+<h4 align="left">5- Users: in this form you will see all Users with them information.</h4>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Techniques and tools used:</h2>
+
+###
+
+<h4 align="left">i used C# .Net Framework to build this system.</h4>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Challenges and how to overcome them:</h2>
+
+###
+
+<h4 align="left">i faced some hard way to check if this room is busy or not but with library like Date i fixed it.</h4>
+
+###
+
+<h2 align="left">Future plans:</h2>
+
+###
+
+<h4 align="left">you can add order of food and another services and save the system info in database not in dataStructure.</h4>
+
+###
+
+<br clear="both">
+
+<h2 align="left">End message:</h2>
+
+###
+
+<h4 align="left">in the end if you want some details about this project ask me.</h4>
+
+###
