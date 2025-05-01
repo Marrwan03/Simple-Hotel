@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">this sytem for any one has a hotel and wants to get clients for it.</h4>
+<h4 align="left">this system for any one has a hotel and wants to get clients for it.</h4>
 
 ###
 
